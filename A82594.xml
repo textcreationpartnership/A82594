@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration and ordinance of the Lords and Commons assembled in Parliament; touching the Great Seale of England. and that the said seale is to be put into the hands and custody of such commissioners, as are herein named by both houses of Parliament. / Ordered by the Commons in Parliament, that this declaration touching the Great Seale, be forthwith printed and published: H: Elsynge, cler. Parl. d. Com.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82594</idno>
+            <idno type="STC">Wing E1306</idno>
+            <idno type="STC">ESTC R17544</idno>
+            <idno type="EEBO-CITATION">45097675</idno>
+            <idno type="OCLC">ocm 45097675</idno>
+            <idno type="VID">171274</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82594)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171274)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2570:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration and ordinance of the Lords and Commons assembled in Parliament; touching the Great Seale of England. and that the said seale is to be put into the hands and custody of such commissioners, as are herein named by both houses of Parliament. / Ordered by the Commons in Parliament, that this declaration touching the Great Seale, be forthwith printed and published: H: Elsynge, cler. Parl. d. Com.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+                  <author>Elsynge, Henry, 1598-1654.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>November 13. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Seal.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171274:1" rendition="simple:additions"/>
+            <p>A DECLARATION AND ORDINANCE OF <hi>The</hi> Lords <hi>and</hi> Commons <hi>aſſembled</hi> in PARLIAMENT; Touching The Great SEALE OF <hi>ENGLAND.</hi> And that the ſaid SEALE is to be put in<g ref="char:EOLhyphen"/>to the hands and cuſtody of ſuch Commiſſioners, as are herein named by both Houſes of Parliament.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>ORdered by the Commons in Parliament, That this De<g ref="char:EOLhyphen"/>claration <hi>Touching the Great Seale,</hi> be forthwith print<g ref="char:EOLhyphen"/>ed and publiſhed:</p>
+                  <closer>
+                     <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Printed for <hi>Edward Husbands,</hi> November 13. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171274:2"/>
+            <pb n="3" facs="tcp:171274:2"/>
+            <head>AN ORDINANCE OF THE LORDS and COMMONS Aſſembled in Parliament; Touching the Great Seal of England.</head>
+            <p>
+               <hi>WHereas the</hi> Great Seal of England, <hi>which by the Laws of this Realm ought to attend the Parliament, being the Supreme Court of Iuſtice and Iudicature within this Realm, for the di<g ref="char:EOLhyphen"/>spatch of the great and weighty affairs of the Com<g ref="char:EOLhyphen"/>monwealth, which is especially intereſſed and concer<g ref="char:EOLhyphen"/>ned therein, was above a yeer laſt past, that is to ſay, the Two and twentieth day of</hi> May, Anno 1642. <hi>by the then</hi> Lord-Keeper <hi>thereof,</hi> Edward <hi>Lord</hi> Littleton, <hi>then a Member and Speaker of the Houſe of Peers in Parliament, contrary to the great
+<pb n="4" facs="tcp:171274:3"/>truſt in him repoſed, and duty of his place, ſecretly and perfidiouſly conveyed away from the Parliament into the Kings Army, raiſed againſt the Parliament; the ſaid</hi> Lord-Keeper <hi>departing therewith into the ſaid Army, without the leave or privity of the ſaid Houſe; By means whereof, great miſchiefs and in<g ref="char:EOLhyphen"/>conveniencies have enſued to this Kingdom, and the Kingdom of</hi> Ireland.</p>
+            <p>
+               <hi>And whereas the ſaid</hi> Great Seal <hi>ought conſtantly to remain in the hands and cuſtody of one or more Of<g ref="char:EOLhyphen"/>ficer or Officers (ſworn for that ſervice) and to be uſed and imployed for the weal and ſafety of His Ma<g ref="char:EOLhyphen"/>jesties People; which notwithſtanding hath been di<g ref="char:EOLhyphen"/>vers times ſithence the conveying away thereof as aforeſaid, put into the hands of other perſons not ſworn, and Popiſhly and dangerouſly affected, who have had the dispoſing and managing thereof at their own wills and pleaſures, and hath been trayte<g ref="char:EOLhyphen"/>rouſly and perniciouſly abuſed, to the Ruine and De<g ref="char:EOLhyphen"/>ſtruction of the Parliament and Kingdom, by grant<g ref="char:EOLhyphen"/>ing and iſſuing out divers Illegall</hi> Commiſsions of Array, <hi>and other unlawfull</hi> Commiſsions <hi>for raiſing of Forces againſt the Parliament, by iſſu<g ref="char:EOLhyphen"/>ing out of moſt foul and ſcandalous Papers, under the
+<pb n="5" facs="tcp:171274:3"/>Name and Title of Proclamations, againſt both Houſes of Parliament, and divers Members thereof, and others adhering to them, and Proclayming them Traytors and Re<g ref="char:EOLhyphen"/>bels; Commiſsions of</hi> Oyer <hi>and</hi> Terminer, <hi>to proceed againſt divers of them, as Traytors, and other Commiſ<g ref="char:EOLhyphen"/>ſions to ſeize and confiſcate their Eſtates, for no other cauſe, but for doing their duties and ſervices to the Com<g ref="char:EOLhyphen"/>mon-wealth; as likewiſe by granting that horrid Com<g ref="char:EOLhyphen"/>miſsion, for executing of that moſt bloody and deteſtable Deſigne of</hi> Waller, Tomkins, <hi>and others, for the de<g ref="char:EOLhyphen"/>ſtruction of the Parliament, and Citie of</hi> London, <hi>and of the Army rayſed for their juſt Defence; and (as if Maſſacres and Aſſacinations, had beene but light and veniall crimes) another Commiſsion hath beene granted under the ſame Seale for a Ceſſation of Arms with the barbarous and bloody Rebels in</hi> Ireland, <hi>after the effuſion of ſo much innocent blood, and ſlaughter of above one hundred thouſand Proteſtants, Men, Women, and Children, by their mercileſſe, and bloody hands: wher<g ref="char:EOLhyphen"/>upon a Ceſſation of Arms is accordingly concluded; and thoſe brutiſh Rebels thereby imboldned to prepare them<g ref="char:EOLhyphen"/>ſelves, not only for a totall Extirpation of the Proteſtants remaining there, but for a Conqueſt alſo of this Kingdome: And further by granting of ſeverall Commiſsions, and Offices of Truſt and Command, to notorious Papiſts, who by the Laws and Statutes of this Realme, are made unca<g ref="char:EOLhyphen"/>pable thereof; and by conferring of Honours, and Digni<g ref="char:EOLhyphen"/>ties, and granting of Lands and Eſtates to divers exorbi<g ref="char:EOLhyphen"/>tant Delinquents, who ſtand legally impeached of high Treaſon, and other high Crimes and miſdemeanours in Parliament.</hi>
+            </p>
+            <pb n="6" facs="tcp:171274:4"/>
+            <p>
+               <hi>All which, and many other unlawfull and enormous Acts have paſſed under the ſaid Great Seale, ſince the removall thereof from the Parliament, as aforeſaid: Which the Lords and Commons taking into their conſide<g ref="char:EOLhyphen"/>ration, and finding all wayes, and means obſtructed for the procuring of any redreſſe from His Majeſtie, in the Premiſſes, notwithſtanding their long hopes, and unceſſant Labours, for the obtayning thereof, are bound in duty and of neceſsity to provide ſome ſpeedy Remedy for theſe inſup<g ref="char:EOLhyphen"/>portable miſchiefes.</hi>
+            </p>
+            <p>BE it therefore Declared and Ordained, by the ſaid Lords and Commons aſſembled in Parliament, that aſwell all and every the ſaid Acts formerly mentioned, which have paſſed un<g ref="char:EOLhyphen"/>der the ſaid Great Seal, as alſo all Letters Pa<g ref="char:EOLhyphen"/>tents and Grants of any Lands, Goods or Eſtates, of any perſon, or perſons whatſoever, for adhering to the Parliament, all Compoſitions or Grants, of any Wardſhips, or Leaſes of any Wards Lands, Li<g ref="char:EOLhyphen"/>veries, <hi>Primer ſeizins &amp; Ouſter le maines,</hi> ſince the ſaid 22. of May 1642. which have not according to the due courſe of Law, paſſed through the Court of Wards and Liveries, eſtabliſhed by Law: All grants ſince the ſaid 22. of May 1642. of any Honours Dig<g ref="char:EOLhyphen"/>nities, Mannors, Lands, Hereditaments, or other thing whatſoever, to any perſon or perſons, which have voluntarily contributed, or ſhall voluntarily contribute any Aid or Aſſiſtance to the maintenance of that unnaturall War raiſed againſt the Parliament; And all pardons granted to any ſuch perſon or per<g ref="char:EOLhyphen"/>ſons; And all other Acts or things whatſoever, con<g ref="char:EOLhyphen"/>trary
+<pb n="7" facs="tcp:171274:4"/>to, or in derogation of the Proceedings of both, or either of the Houſes of Parliament, which have paſſed under the ſaid Great Seal, ſince the removall thereof from the Parliament, ſhall be, and are hereby declared to be utterly Invalid, void, and of none ef<g ref="char:EOLhyphen"/>fect, to all intents and purpoſes.</p>
+            <p>And that all and every act or thing, which after the publication of this Ordinance, ſhall paſſe by, or un<g ref="char:EOLhyphen"/>der the ſaid Great Seal, or under any Great Seal of <hi>England</hi> (other then what is hereby appointed and eſtabliſhed) ſhall be utterly voyd, fruſtrate, and of no effect; and every perſon, or perſons, which ſhall put the ſame in uſe, or ſhall claime any thing there<g ref="char:EOLhyphen"/>by, ſhall be held and adjudged a publique Enemy of this State.</p>
+            <p>And be it further Ordained by the ſaid Lords and Commons, that a Great Seal of <hi>England</hi> already by them made and provided, ſhall be forthwith put in uſe; and ſhall be, and is here by authorized and eſtabliſhed to be of like force, power, and validity, to all intents and purpoſes as any Great Seal of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> hath been, or ought to be.</p>
+            <p>And that it ſhall be put into the hands and cuſto<g ref="char:EOLhyphen"/>dy of the perſons hereafter named, who are hereby Ordained Commiſſioners for that purpoſe; that is to ſay, <hi>John</hi> Earl of Rutland, and <hi>Oliver</hi> Earl of Bollingbrooke, Members of the Houſe of Peers, and <hi>Oliver St. Iohns</hi> Eſquire, His Maieſties Solicitor Ge<g ref="char:EOLhyphen"/>nerall, <hi>Iohn Wilde</hi> Sergeant at Law, <hi>Samuel Brown,</hi> and <hi>Edmund Prideaux</hi> Eſq; Members of the Houſe of Co<g ref="char:cmbAbbrStroke">̄</g>mons; which ſaid perſons, or any three or more of
+<pb n="8" facs="tcp:171274:5"/>them, whereof one member or more of the Lords Houſe, alſo one Member or more of the Houſe of Commons, ſhall be preſent, ſhall have, and are here<g ref="char:EOLhyphen"/>by Authorized to have the Keeping, Ordering and diſpoſing thereof, as alſo all ſuch and the like Pow<g ref="char:EOLhyphen"/>er and Authority, as any Lord Chancellour, or Lord Keeper, or Commiſſioner of the Great Seal, for the time being hath had, uſed, or ought to have.</p>
+            <closer>
+               <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
